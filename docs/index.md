@@ -19,28 +19,22 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Ali Barro" class="profile-photo">
+  <h1>Ali Barro</h1>
+  <p><strong>Founder @ GGG</strong></p>
+  <p><em>Turning spatial data into insights | Geology | GIS | Remote Sensing | Data Analytics</em></p>
 </div>
 
 ---
 
-## About Me
+## **About Me**
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+My background is in Geology and Geophysics. I specialised in geospatial data analysis and visualisation. I spent 15 years managing, processing and interpretating mineral exploration data. Now, I am working on automating workflow of predictive mineral resource targeting based on remote sensing imagery and GIS to drastically reduce the cost of prospection. I am mainly using Colab, Google Earth Engine and QGIS (of course!). 
+Besides that, I am developing GGG (Golden Geo GIS) to associate my passion for remote database administration. 
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
 
 </div>
 
@@ -53,7 +47,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/CV_ALI_BARRO.pdf){ .md-button }
 
 
 ---
@@ -66,17 +60,17 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Geosoft Oasis Montaj, QGIS, Datamine, Google Earth Engine
+    - GRASS GIS
+    - Multispectral image analysis
+    
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
+    - ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
@@ -84,8 +78,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
+    - Supervised classification — Random Forest
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 
@@ -93,24 +86,19 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    - Geoserver
+    - Google Cloud Storage
+    - Data formats — GeoTIFF
+    
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
 
     - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Cloud storage: Google Cloud Storage
+    - Data formats: GeoJSON, GeoTIFF
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
 </div>
 
 
@@ -118,5 +106,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/alibarro){ .md-button }
+[LinkedIn](https://linkedin.com/in/alibarro){ .md-button }
