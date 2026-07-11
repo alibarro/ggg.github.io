@@ -19,29 +19,28 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/Sentinel-2A-PCA-Dissin-Burkina_Faso.png)
 
-**[Sample Project](sample-project.md)**
+**[Mapping of Mineral Alteration and Principal Component Analysis](Sentinel-alteration-PCA.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+This project used Principal Component Analysis (PCA) and band ratio techniques on Sentinel-2A imagery to identify invisible hydrothermal alteration zones and iron oxide signatures in Dissin, Burkina Faso, supporting mineral exploration by revealing surface alteration patterns not visible in standard true-color imagery
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`GEE` `Python` `Colab`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](Sentinel-alteration-PCA.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/RGB_Ferrous-Clay-Oxide.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Mineral alteration and Principal Component Analysis](Sentinel-2A-Dissin.ipynb)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
 `Python` `pandas` `Folium`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](Sentinel-2A-Dissin.ipynb){ .md-button }
 </div>
 
 </div>
