@@ -1,4 +1,4 @@
-# Mapping of Mineral Alteration Using Principal Component Analysis
+# Mapping of Mineral Alteration and Principal Component Analysis
 
 ![Project overview image](../assets/images/Sentinel-2A-PCA-Dissin-Burkina_Faso.png)
 
@@ -44,13 +44,6 @@ This project used Principal Component Analysis (PCA) and band ratio techniques o
 | Google Earth Engine (GEE) | Cloud-based processing of Sentinel-2A imagery, PCA, and index calculations |
 | Python | Scripting the analysis pipeline (ee, geemap, rasterio, matplotlib) |
 | Google Colab | Interactive development and execution environment |
-
----
-## Key Findings
-
-- [Finding one — include a number or metric if possible]
-- [Finding two]
-- [Finding three]
 
 ---
 

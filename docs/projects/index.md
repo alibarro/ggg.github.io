@@ -35,10 +35,9 @@ This project used Principal Component Analysis (PCA) and band ratio techniques o
 
 **[Mineral alteration and Principal Component Analysis](Sentinel-2A-Dissin.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Results to be published soon
 
-`Python` `pandas` `Folium`
+`GEE` `JavaScript` `Colab` `Python` `VS Studio`
 
 [View Project →](Sentinel-2A-Dissin.ipynb){ .md-button }
 </div>
