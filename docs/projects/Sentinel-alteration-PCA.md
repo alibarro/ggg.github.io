@@ -49,5 +49,5 @@ This project used Principal Component Analysis (PCA) and band ratio techniques o
 
 ## Links
 
-[View Code on GitHub](https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]){ .md-button }
+[View Code on GitHub](https://github.com/alibarro/ggg.github.io){ .md-button }
 [View Data Source](https://scihub.copernicus.eu/){ .md-button }

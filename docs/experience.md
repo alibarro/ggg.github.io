@@ -137,15 +137,15 @@ CHECKLIST FOR THIS PAGE:
 
 ## Certifications
 
-- Micromine (Introductory)
-- Geostatistics (Introductory)
-- QGIS (Theory & Practice)
-- Enterprise GIS (Open-source tools)
-- Open Pit Optimization (Introductory)
+- QGIS
+- Micromine 
+- Geostatistics 
+- Enterprise GIS 
+- Open Pit Optimization 
 - Datamine Studio RM — Resource Estimation Basics
-- Remote Sensing & Geospatial Analysis (Fundamentals)
+- Remote Sensing & Geospatial Analysis 
 - Internet Mapping (GeoServer, Postgres, OpenLayers)
 - Google Earth Engine Applications
-- Hyperspectral Remote Sensing (Introductory)
+- Hyperspectral Remote Sensing 
 - Machine Learning in GIS
 - First Aid — Red Cross

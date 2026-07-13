@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="Ali Barro" class="profile-photo">
   <h1>Ali Barro</h1>
   <p><strong>Founder @ GGG</strong></p>
-  <p><em>Turning spatial data into insights | Geology | GIS | Remote Sensing | Data Analytics</em></p>
+  <p><em>Turning geospatial data into decisions | Geology | GIS | Remote Sensing | Data Analytics</em></p>
 </div>
 
 ---
@@ -32,7 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-My background is in Geology and Geophysics. I specialised in geospatial data analysis and visualisation. I spent 15 years managing, processing and interpretating mineral exploration data. Now, I am working on automating workflow of predictive mineral resource targeting based on remote sensing imagery and GIS to drastically reduce the cost of prospection. I am mainly using Colab, Google Earth Engine and QGIS (of course!). 
+My background is in Geology and Geophysics. I specialised in geospatial data analysis and visualisation. I spent 15 years gathering, processing and interpretating mineral exploration data. Now, I am working on automating workflow of predictive mineral resource targeting based on remote sensing imagery and GIS to drastically reduce the cost of prospection. I am mainly using Colab, Google Earth Engine and QGIS (of course!). 
 Besides that, I am developing GGG (Golden Geo GIS) to associate my passion for remote database administration. 
 
 
