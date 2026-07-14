@@ -1,6 +1,6 @@
 # Ali's Portfolio
 
-This is the repository for my portfolio website. The portfolio is hosted at https://ggg.github.io/
+This is the repository for my portfolio website. The portfolio is hosted at https://github.com/alibarro/ggg.github.io/
 
  This website is built using the following tools
  
